@@ -1,2 +1,2 @@
 # NumberView
-![preview](../preview.gif)
+![preview](preview.gif)
